@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.78.0"
   },
-  "icon": "icons/moria-entrance.png",
+  "icon": "icons/logo-mountains.png",
   "author": {
     "name": "Lilian Bosc",
     "email": "lilian.bosc98@gmail.com",
