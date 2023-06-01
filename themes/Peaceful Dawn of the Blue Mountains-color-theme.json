@@ -1,19 +1,19 @@
 {
     "name": "Peaceful Dawn of the Blue Mountains",
     "colors": {
-        "editor.background": "#00598d0f",
-        "editor.foreground": "#eeffff",
-        "activityBar.background": "#00598d",
+        "editor.background": "#3560840f",
+        "editor.foreground": "#dce6eb",
+        "activityBar.background": "#356084",
         "activityBarBadge.background": "#00b4d8",
-        "sideBar.background": "#00598d4f",
+        "sideBar.background": "#3560844f",
         "badge.background": "#00b4d8",
         "sideBarTitle.foreground": "#bbbbbb",
-        "titleBar.activeBackground": "#00598d",
-        "list.activeSelectionBackground": "#00598d",
-        "list.hoverBackground": "#00598dbe",
-        "list.inactiveSelectionBackground": "#00598d8a",
-        "tab.activeBackground": "#00598d",
-        "tab.inactiveBackground": "#00598d87"
+        "titleBar.activeBackground": "#356084",
+        "list.activeSelectionBackground": "#356084",
+        "list.hoverBackground": "#356084be",
+        "list.inactiveSelectionBackground": "#3560848a",
+        "tab.activeBackground": "#356084",
+        "tab.inactiveBackground": "#35608487"
     },
     "tokenColors": [
         {
@@ -34,7 +34,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#ffeeee"
             }
         },
         {
@@ -64,7 +64,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#C792EA"
+                "foreground": "#f6c959"
             }
         },
         {
@@ -72,7 +72,6 @@
             "scope": [
                 "keyword.control",
                 "constant.other.color",
-                "punctuation",
                 "meta.tag",
                 "punctuation.definition.tag",
                 "punctuation.separator.inheritance.php",
@@ -84,7 +83,8 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#89DDFF"
+                "foreground": "#f6b259",
+                "fontStyle": "italic"
             }
         },
         {
@@ -102,13 +102,15 @@
             "name": "Function, Special Method",
             "scope": [
                 "entity.name.function",
-                "meta.function-call",
+                "meta.function-call.generic.python",
+                "functions",
                 "variable.function",
                 "support.function",
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#82AAFF"
+                "foreground": "#f78bde",
+                "fontStyle": "bold"
             }
         },
         {
@@ -158,7 +160,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#C3E88D"
+                "foreground": "#50d6ff"
             }
         },
         {

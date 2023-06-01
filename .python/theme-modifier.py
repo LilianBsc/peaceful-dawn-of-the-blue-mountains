@@ -21,4 +21,4 @@ def insert_background_color(color: str):
         json.dump(dico, json_file, indent=4)
     print("Done")
 
-insert_background_color("#00598d")
+insert_background_color("#356084")
