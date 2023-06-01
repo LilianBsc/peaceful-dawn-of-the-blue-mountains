@@ -3,6 +3,7 @@
     "colors": {
         "editor.background": "#3560840f",
         "editor.foreground": "#dce6eb",
+		"editor.lineHighlightBackground": "#35618453",
         "activityBar.background": "#356084",
         "activityBarBadge.background": "#00b4d8",
         "sideBar.background": "#3560844f",
@@ -13,7 +14,9 @@
         "list.hoverBackground": "#356084be",
         "list.inactiveSelectionBackground": "#3560848a",
         "tab.activeBackground": "#356084",
-        "tab.inactiveBackground": "#35608487"
+        "tab.inactiveBackground": "#35608487",
+		"terminal.background": "#35618400",
+		"terminal.foreground": "#fefdfd",
     },
     "tokenColors": [
         {
