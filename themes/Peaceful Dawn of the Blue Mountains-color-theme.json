@@ -1,12 +1,12 @@
 {
     "name": "Peaceful Dawn of the Blue Mountains",
     "colors": {
-        "editor.background": "#3560840f",
+        "editor.background": "#35618407",
         "editor.foreground": "#dce6eb",
-		"editor.lineHighlightBackground": "#35618453",
+        "editor.lineHighlightBackground": "#35608453",
         "activityBar.background": "#356084",
         "activityBarBadge.background": "#00b4d8",
-        "sideBar.background": "#3560844f",
+        "sideBar.background": "#3560843a",
         "badge.background": "#00b4d8",
         "sideBarTitle.foreground": "#bbbbbb",
         "titleBar.activeBackground": "#356084",
@@ -15,8 +15,8 @@
         "list.inactiveSelectionBackground": "#3560848a",
         "tab.activeBackground": "#356084",
         "tab.inactiveBackground": "#35608487",
-		"terminal.background": "#35618400",
-		"terminal.foreground": "#fefdfd",
+        "terminal.background": "#35608400",
+        "terminal.foreground": "#fefdfd"
     },
     "tokenColors": [
         {
