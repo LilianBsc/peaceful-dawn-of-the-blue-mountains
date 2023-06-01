@@ -1,6 +1,6 @@
 # Peaceful Dawn of the Blue Mountains
 
-![Image](/icons/moria-entrance.png)
+![Image](/icons/logo-mountains.png)
 
 ## Description
 
