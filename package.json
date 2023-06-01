@@ -1,10 +1,20 @@
 {
-  "name": "peaceful-dawn-of-the-blue-mountains",
+  "name": "ered-luin-dark",
   "displayName": "Peaceful Dawn of the Blue Mountains",
   "description": "Introducing \"Peaceful Dawn of the Blue Mountains,\" a meticulously crafted color theme by the Durin's Folk, designed with utmost care for soothing the eyes. Soft azure hues blend with misty undertones, creating a tranquil palette. Keywords shimmer in ethereal cobalt, strings and comments whisper in pale turquoise. With balanced contrast and timeless elegance, let this theme guide your coding journey, invoking the serene ambiance of dawn over the majestic Blue Mountains.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.78.0"
+  },
+  "icon": "icons/moria-entrance.png",
+  "author": {
+    "name": "Lilian Bosc",
+    "email": "lilian.bosc98@gmail.com",
+    "url": "https://github.com/LilianBsc"
+  },
+  "repository": {
+    "url": "https://github.com/LilianBsc/peaceful-dawn-of-the-blue-mountains.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
