@@ -1,5 +1,7 @@
 # Peaceful Dawn of the Blue Mountains
 
+![Image](/icons/moria-entrance.png)
+
 ## Description
 
 In the realm of Visual Studio Code, where the artistry of code meets the enchantment of creativity, behold the majestic color theme known as "Peaceful Dawn of the Blue Mountains," crafted by the Durin's Folk with utmost care for the soothing of mortal eyes.
