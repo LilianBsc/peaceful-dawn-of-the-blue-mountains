@@ -2,6 +2,7 @@ import json
 import os
 
 THEME_NAME = "Peaceful Dawn of the Blue Mountains"
+BLUE_MOUNTAINS_COLOR = "#356084"
 
 def insert_background_color(color: str):
     """Insert a color in hexadecimal in the colors settings
@@ -21,4 +22,4 @@ def insert_background_color(color: str):
         json.dump(dico, json_file, indent=4)
     print("Done")
 
-insert_background_color("#356084")
+insert_background_color(BLUE_MOUNTAINS_COLOR)
