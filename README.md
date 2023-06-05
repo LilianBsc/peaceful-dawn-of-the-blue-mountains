@@ -1,6 +1,8 @@
 # Peaceful Dawn of the Blue Mountains
 
-![Image](/icons/logo-mountains.png)
+<div align="center">
+    <img src="icons/logo-mountains.png" width=30%>
+</div>
 
 ## Description
 
